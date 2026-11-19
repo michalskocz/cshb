@@ -49,4 +49,4 @@ build
 
 ## License
 
-Dedicated to the public domain under **CC0 1.0 Universal**. See [LICENSE](https://www.google.com/search?q=LICENSE) for details.
+Dedicated to the public domain under **CC0 1.0 Universal**. See [LICENSE](LICENSE) for details.
